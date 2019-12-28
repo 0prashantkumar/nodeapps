@@ -1,0 +1,23 @@
+{
+  "name": "nodeapps",
+  "version": "1.0.0",
+  "description": "Calculator using EXPRESS",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ameykhaire/nodeapps.git"
+  },
+  "author": "Amey Khaire",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ameykhaire/nodeapps/issues"
+  },
+  "homepage": "https://github.com/ameykhaire/nodeapps#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
